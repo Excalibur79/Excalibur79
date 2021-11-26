@@ -11,7 +11,7 @@
 
 <br />
 
-hi, i'm [Ankur Saha](https://ankur-saha.netlify.app/), a passionate self-taught full stack web developer and a competitive programmer from india. I'm currently pursuing BTech CSIT in University of Engineering and Management, Kolkata.
+hi, i'm Ankur Saha, a passionate self-taught full stack web developer and a competitive programmer from india. I'm currently pursuing BTech CSIT in University of Engineering and Management, Kolkata.
 
 I have worked on projects based on the web using latest technologies heading towards the market. I have also gained real life experience on my domain from my full time internship and contributing to open source projects. I also indulge myself in competitive programming thus sharpening my problem solving skills to apply in real life situations for quick and optimised solutions.I love to find myself indulged in new ideas and create different and unique projects and optimize it in all possible ways to make it work in the most ideal way.
 
