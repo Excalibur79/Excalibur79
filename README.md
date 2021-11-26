@@ -45,3 +45,7 @@ I have worked on projects based on the web using latest technologies heading tow
 <br/>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Excalibur79&show_icons=true&theme=gotham" alt="Excalibur79" />
+
+<br/>
+
+[![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=Excalibur79&layout=compact&langs_count=8&theme=great-gatsby)](https://gitstats.me/Excalibur79)
