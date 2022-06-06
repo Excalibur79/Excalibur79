@@ -3,9 +3,7 @@
 <a href="https://www.linkedin.com/in/ankur-saha/">
   <img align="left" alt="Ankur's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/playlist/2btM770Kfyl46ictoZD8rq?si=94d03d662bc748b6">
-  <img align="left" alt="Ankur's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Excalibur79.Excalibur79)
 
